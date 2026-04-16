@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Felipe Fornazeiro</h1>
 
-<!--
-**Frnzdev/frnzdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 backend Developer <br>
+  🚀 Passionate about technology and building systems
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🎓 Studying Systems Development
+- 💻 Working with Java, Spring Boot, PostgreSql
+- 🚀 Building projects and learning every day
+
+---
+
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/felipefornazeiro7">LinkedIn</a> |
+  <a href="https://my-port-bay-psi.verecel.app">Website</a> |
+  <a href="mailto:felipeacfornazeiro@gmail.com">Email</a>
+</p>
+
+---
+
+### ⚙️ Technologies
+
+- JavaScript / TypeScript
+- React / Next.js
+- Node.js
+- MySQL / Prisma
+
+---
+
+### 📊 Stats
