@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00F700&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Felipe+Fornazeiro;Backend+Developer+(Java);Spring+Boot+%7C+APIs+REST+%7C+Databases;Building+scalable+systems+🚀;Always+learning+new+things+🔥" />
-</p>
+<h1 align="center">Hi 👋, I'm Felipe Fornazeiro</h1>
+
+<h3 align="center">Backend Developer (Java) • Spring Boot • APIs REST</h3>
 
 <p align="center">
-  💻 Backend Developer (Java) <br>
-  🚀 Focused on building scalable APIs and systems
+  🚀 Focused on building scalable backend systems
 </p>
 
 ---
@@ -37,7 +36,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git" />
 </p>
 
 ---
