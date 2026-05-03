@@ -53,8 +53,8 @@
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=frnzdev&show_icons=true&theme=radical"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=frnzdev&theme=radical"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eufrnz&show_icons=true&theme=radical"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=eufrnz&theme=radical"/>
 </p>
 
 ---
